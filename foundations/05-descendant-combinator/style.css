@@ -1,0 +1,11 @@
+/*style.css*/
+
+*{
+    font-size: 48px;
+}
+
+div {
+    color: red;
+    background-color: yellow;
+    text-align: center;
+}
